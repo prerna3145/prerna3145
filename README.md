@@ -10,7 +10,7 @@
 
 ## 🚀 My Journey
 
-I'm a dedicated computer science student currently in my sophomore year, exploring the fascinating world of technology and software development. From a young age, I've been drawn to computers and the endless possibilities they offer to shape the future.
+I'm a dedicated computer science student currently in my sophomore year, exploring the fascinating world of technology and software development. From a young age, I've been drawn to computers and the endless possibilities they offer to shape the future. I'm also a part of WE program by TalentSprint which is supported by Google.
 
 ### 💻 Tech Enthusiast
 
@@ -23,6 +23,7 @@ I firmly believe that a strong foundation in Data Structures and Algorithms is t
 ### 🌐 Building a Mental Health Website
 
 One of my most meaningful projects right now is the development of a mental health website. I am passionate about leveraging technology to improve mental well-being and destigmatize mental health issues. Through this project, I aim to create a platform that provides valuable resources and support to those in need.
+>>My role is building a chatbot and saving the user details and history in the back-end.
 
 ## 🌟 Let's Connect
 
