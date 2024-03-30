@@ -5,7 +5,7 @@
 - 💡 Tech Enthusiast and Problem Solver
 - 👾 DSA (Data Structures and Algorithms) Practitioner
 - 🌱 Passionate about Software Development
-- 🧠 Working on a Mental Health Website
+
 
 ## 🚀 My Journey
 I'm a dedicated computer science student currently in my sophomore year, exploring the fascinating world of technology and software development. From a young age, I've been drawn to computers and the endless possibilities they offer to shape the future. I'm also a part of WE program by TalentSprint which is supported by Google.
