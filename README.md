@@ -13,14 +13,6 @@
 
 I'm a dedicated computer science student currently in my senior year, deeply exploring the world of technology and software development. From a young age, I've been drawn to computers and the endless possibilities they offer to shape the future. I am also a proud participant of the **WE Program by TalentSprint**, supported by Google.
 
-### 💻 Tech Enthusiast
-
-My enthusiasm for technology extends beyond the classroom. I'm always eager to learn about emerging technologies and build impactful solutions. My interests span across **web development, machine learning, backend systems, and data-driven applications**, and I enjoy taking on challenges that blend innovation with real-world use cases.
-
-### 📚 DSA Practitioner
-
-I strongly believe that a solid foundation in **Data Structures and Algorithms** is key to becoming a proficient software engineer. I regularly practice problem-solving, participate in coding contests, and work on algorithmic challenges to sharpen my analytical skills.
-
 ---
 
 ## 🛠️ Tech Stack (Industry-Relevant)
