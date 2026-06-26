@@ -63,22 +63,32 @@ I'm a dedicated computer science student currently in my senior year, deeply exp
 
 ## 💼 Experience
 
-### Software Engineering Research Intern – DRDO
-
+### Software Engineering Intern – DRDO
 **Defence Research and Development Organisation (DRDO)**
-**July 2025 – November 2025**
+**September 2025 – February 2026**
 
 * Conducted research on the **effects of nuclear weapon fallout**, focusing on post-blast environmental and human impact.
 * Built **simulation models** to analyze blast energy distribution, thermal effects, and long-term radioactive isotope persistence.
 * Supported defense preparedness studies by generating data-driven insights for **risk assessment and mitigation strategies**.
 * Collaborated with senior researchers to integrate simulation outputs into defense frameworks, improving decision-making related to **shielding, evacuation, and disaster response**.
 
-### WE (Women Engineers) Program – TalentSprint (Supported by Google)
+---
 
-**Mentee | 2-Year Program**
+### Software Development Intern – Stealth Startup
+**July 2025 – August 2025**
 
-* Selected for a competitive mentorship program focused on **advanced computer science, leadership, and career readiness**.
+* Built a **developer dashboard** to monitor and test REST APIs with real-time insights.
+* Developed frontend using **React & Tailwind CSS** and integrated backend APIs for seamless request handling.
+* Tech Stack: `React.js` `Tailwind CSS` `REST APIs`
+
+---
+
+### WE (Women Engineers) Program – TalentSprint
+**Supported by Google | Mentee | March 2023 – September 2025**
+
+* Selected among **200 women nationwide** for a competitive 2-year mentorship program focused on advanced CS, technical leadership, and career readiness.
 * Gained exposure to industry-level problem solving, technical mentoring, and professional development.
+* Built an **AI-powered mental health platform** featuring an NLP chatbot, mood-tracking games, and personalized questionnaires as part of a team of 5.
 
 ---
 
