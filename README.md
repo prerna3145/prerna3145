@@ -2,7 +2,7 @@
 
 ## About Me
 
-* 🎓 Senior in Computer Science and Engineering
+* 🎓 Computer Science and Engineering
 * 💡 Tech Enthusiast and Problem Solver
 * 👾 DSA (Data Structures and Algorithms) Practitioner
 * 🌱 Passionate about Software Development, AI & Data
